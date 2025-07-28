@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #50A69F;
+  --secondary: #3D7F7A;
+  --accent: #7BC4BF;
+  --dark-accent: #2C5F5B;
+  --font-noto-sans-jp: 'Noto Sans JP', sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-noto-sans-jp);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-noto-sans-jp);
+  line-height: 1.7;
+}
+
+/* Typography adjustments */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-bottom: 0.5em;
+}
+
+p {
+  line-height: 1.8;
+  margin-bottom: 1em;
+}
+
+.text-sm {
+  line-height: 1.6;
+}
+
+/* Table adjustments */
+table td, table th {
+  padding: 0.75rem 1.5rem;
+}
+
+/* List adjustments */
+ul, ol {
+  line-height: 1.8;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+@media print {
+  header {
+    position: relative !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    font-size: 12pt;
+  }
+  
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  section {
+    page-break-inside: avoid;
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "title": "Kế hoạch Kinh doanh Familia OCR",
+  "subtitle": "Công ty Haudi × Công ty TERACOM",
+  "nav": {
+    "executiveSummary": "Tóm tắt điều hành",
+    "marketAnalysis": "Phân tích thị trường",
+    "competitorAnalysis": "Phân tích đối thủ",
+    "businessModel": "Mô hình kinh doanh",
+    "revenueProjection": "Dự báo doanh thu",
+    "salesStrategy": "Chiến lược bán hàng・Tiến độ",
+    "futureOutlook": "Triển vọng tương lai",
+    "partnership": "Đối tác",
+    "summary": "Tổng kết"
+  },
+  "executiveSummary": {
+    "title": "Tóm tắt điều hành",
+    "description": "Familia OCR là giải pháp xử lý tài liệu đổi mới kết hợp AI OCR và LLM (Mô hình Ngôn ngữ Lớn). Chuyển đổi tài liệu giấy thành dữ liệu kỹ thuật số ngay lập tức, cải thiện đáng kể hiệu quả hoạt động của doanh nghiệp.",
+    "points": {
+      "title": "Điểm chính của dự án",
+      "accuracy": "Độ chính xác nhận dạng trên 95%: Vượt xa OCR truyền thống 80-85% nhờ hiểu ngữ cảnh bằng LLM",
+      "timeReduction": "Giảm 90% thời gian làm việc: Từ hơn 10 phút thủ công → Hoàn thành trong vòng 1 phút",
+      "marketSize": "Quy mô thị trường: Thị trường OCR Nhật Bản đang tăng trưởng nhanh, dự kiến đạt 300 nghìn tỷ VND vào năm 2030"
+    }
+  },
+  "marketAnalysis": {
+    "title": "Phân tích thị trường",
+    "tam": {
+      "title": "TAM (Total Addressable Market) - Quy mô thị trường tối đa có thể đạt được",
+      "content": "Thị trường OCR Nhật Bản đang phát triển nhanh chóng:",
+      "currentSize": "Quy mô thị trường 2024: Khoảng 120 nghìn tỷ VND",
+      "futureSize": "Dự báo 2030: Khoảng 300 nghìn tỷ VND (CAGR 16,5%)",
+      "aiShare": "Thị trường AI OCR: Chiếm 30% tổng thể và sẽ tiếp tục mở rộng"
+    },
+    "sam": {
+      "title": "SAM (Serviceable Available Market) - Quy mô thị trường có thể cung cấp dịch vụ",
+      "content": "Thị trường mục tiêu của Familia OCR:",
+      "targetMarket": "Quy mô thị trường các ngành mục tiêu: Khoảng 90 nghìn tỷ VND",
+      "energy": "Ngành năng lượng: 30 nghìn tỷ VND",
+      "finance": "Ngành tài chính: 40 nghìn tỷ VND",
+      "logistics": "Ngành logistics・sản xuất: 20 nghìn tỷ VND",
+      "aiOcrMarket": "Thị trường AI OCR cho doanh nghiệp vừa và lớn: Khoảng 40 nghìn tỷ VND"
+    },
+    "som": {
+      "title": "SOM (Serviceable Obtainable Market) - Quy mô thị trường có thể đạt được thực tế",
+      "content": "Thị trường dự kiến đạt được trong 3 năm:",
+      "targetShare": "Thị phần mục tiêu: 1%",
+      "obtainableSize": "Quy mô thị trường có thể đạt được: Khoảng 1 nghìn tỷ VND"
+    },
+    "powerIndustry": {
+      "title": "Nhu cầu cụ thể của ngành điện lực",
+      "currentState": "Hiện trạng công ty bán lẻ điện:",
+      "processingCost": "Chi phí xử lý: 700.000-1.000.000 VND/trường hợp (xử lý nội bộ) hoặc 200.000 VND (thuê ngoài・chờ 1 tuần)",
+      "volume": "Khối lượng xử lý: Công ty lớn xử lý 1.000 trường hợp/tháng, với đội ngũ 8 người",
+      "challenges": "Thách thức: Thuê ngoài mất cơ hội kinh doanh, tự xử lý chi phí cao",
+      "marketEstimate": "Ước tính quy mô thị trường (chỉ ngành điện):",
+      "retailers": "Nhà bán lẻ điện: Khoảng 700 công ty",
+      "averageVolume": "Số lượng xử lý trung bình: 500 trường hợp/tháng",
+      "annualSize": "Quy mô thị trường hàng năm: Khoảng 8,4 nghìn tỷ VND (700 công ty × 500 trường hợp × 12 tháng × 200.000 VND)",
+      "conclusion": "Quy mô thị trường rất lớn"
+    }
+  },
+  "competitorAnalysis": {
+    "title": "Phân tích đối thủ",
+    "subtitle": "Đối thủ chính và yếu tố khác biệt",
+    "table": {
+      "headers": {
+        "item": "Hạng mục",
+        "traditional": "OCR truyền thống",
+        "aiCompetitor": "Đối thủ AI OCR",
+        "familiaOcr": "Familia OCR"
+      },
+      "rows": {
+        "accuracy": {
+          "label": "Độ chính xác nhận dạng",
+          "traditional": "80-85%",
+          "aiCompetitor": "90-93%",
+          "familiaOcr": "Trên 95%"
+        },
+        "contextUnderstanding": {
+          "label": "Hiểu ngữ cảnh",
+          "traditional": "×",
+          "aiCompetitor": "△",
+          "familiaOcr": "◎ (Sử dụng LLM)"
+        },
+        "processingSpeed": {
+          "label": "Tốc độ xử lý",
+          "traditional": "5-10 phút/trang",
+          "aiCompetitor": "2-3 phút/trang",
+          "familiaOcr": "Trong vòng 1 phút/trang"
+        },
+        "complexLayout": {
+          "label": "Xử lý bố cục phức tạp",
+          "traditional": "△",
+          "aiCompetitor": "○",
+          "familiaOcr": "◎"
+        },
+        "learningFunction": {
+          "label": "Chức năng học tập",
+          "traditional": "×",
+          "aiCompetitor": "△",
+          "familiaOcr": "○ (Tích hợp sẵn)"
+        },
+        "pricing": {
+          "label": "Mức giá",
+          "traditional": "Cao",
+          "aiCompetitor": "Trung bình-Cao",
+          "familiaOcr": "Tính phí linh hoạt theo lượng"
+        }
+      }
+    },
+    "advantages": {
+      "title": "Lợi thế cạnh tranh",
+      "llm": "Nhận dạng độ chính xác cao với LLM: Suy đoán ký tự chính xác từ ngữ cảnh",
+      "layout": "Phân tích bố cục tự động: Hiểu cấu trúc của bảng và biểu mẫu phức tạp",
+      "learning": "Chức năng học tập liên tục: Càng sử dụng càng thông minh",
+      "localization": "Chuyên biệt cho nhu cầu doanh nghiệp Nhật Bản: Tối ưu hóa cho hóa đơn, sổ tiết kiệm và các tài liệu đặc thù của Nhật Bản"
+    }
+  },
+  "businessModel": {
+    "title": "Mô hình kinh doanh",
+    "pattern1": {
+      "title": "Mô hình 1: Mô hình SaaS",
+      "initialCost": "Chi phí ban đầu: 100 triệu VND (Thiết lập môi trường・Cài đặt ban đầu)",
+      "monthlyFee": "Phí hàng tháng: Tính theo lượng sử dụng",
+      "perDocument": "200.000-600.000 VND/tài liệu",
+      "powerBill": "Hóa đơn điện (12 tháng): Khoảng 400.000 VND/trường hợp",
+      "bankbook": "Phân tích sổ tiết kiệm: Khoảng 600.000 VND/trường hợp",
+      "expectedVolume": "Dự kiến sử dụng: 1.000 tài liệu/tháng/công ty"
+    },
+    "pattern2": {
+      "title": "Mô hình 2: Cung cấp giấy phép + Phát triển theo yêu cầu",
+      "licenseFee": "Phí giấy phép: 600 triệu VND/năm",
+      "developmentFee": "Phí phát triển: Từ 2,4 tỷ VND (tùy nội dung tùy chỉnh)",
+      "averagePrice": "Đơn giá trung bình: 3 tỷ VND/dự án"
+    },
+    "trial": {
+      "title": "Chương trình dùng thử",
+      "period": "Thời gian: 2 tuần",
+      "cost": "Chi phí: Miễn phí",
+      "purpose": "Mục đích: Trải nghiệm hiệu quả và cung cấp tài liệu cho quyết định nội bộ"
+    }
+  },
+  "revenueProjection": {
+    "title": "Dự báo doanh thu",
+    "shortTerm": {
+      "title": "Ngắn hạn (Đến tháng 3/2025)",
+      "pattern1": {
+        "title": "Mô hình 1 (SaaS):",
+        "target": "Mục tiêu triển khai: 5 công ty",
+        "monthlyRevenue": "Doanh thu hàng tháng: 5 công ty × 1.000 trường hợp × 400.000 VND = 2 tỷ VND",
+        "totalRevenue": "Tổng doanh thu (6 tháng): Khoảng 12 tỷ VND"
+      },
+      "pattern2": {
+        "title": "Mô hình 2 (Phát triển theo yêu cầu):",
+        "target": "Mục tiêu đơn hàng: 5 công ty",
+        "revenue": "Doanh thu: 5 công ty × 3 tỷ VND = 15 tỷ VND"
+      },
+      "total": "Tổng mục tiêu doanh thu: Khoảng 27 tỷ VND"
+    },
+    "midTerm": {
+      "title": "Trung hạn (Năm tài chính 2026)",
+      "saas": "Công ty triển khai SaaS: 20 công ty (Doanh thu hàng tháng 8 tỷ VND)",
+      "development": "Phát triển theo yêu cầu: 10 dự án/năm (30 tỷ VND)",
+      "annual": "Mục tiêu doanh thu hàng năm: Khoảng 126 tỷ VND"
+    },
+    "longTerm": {
+      "title": "Dài hạn (Năm tài chính 2028)",
+      "saas": "Công ty triển khai SaaS: 50 công ty (Doanh thu hàng tháng 20 tỷ VND)",
+      "development": "Phát triển theo yêu cầu: 15 dự án/năm (45 tỷ VND)",
+      "marketShare": "Thị phần: 1%",
+      "annual": "Mục tiêu doanh thu hàng năm: Khoảng 285 tỷ VND"
+    }
+  },
+  "salesStrategy": {
+    "title": "Chiến lược bán hàng・Tiến độ",
+    "currentStatus": {
+      "title": "Tình trạng bán hàng hiện tại",
+      "approached": "Đã tiếp cận: 10 công ty lớn",
+      "trialSigned": "Đã ký hợp đồng dùng thử: 2 công ty (Remix Point, E-Rex)",
+      "trialStart": "Bắt đầu dùng thử: Dự kiến tháng 7/2025",
+      "others": "8 công ty khác: Tiếp tục theo dõi"
+    },
+    "salesTeam": {
+      "title": "Đội ngũ bán hàng",
+      "member1": "Giám đốc Asada",
+      "member2": "Trưởng phòng Yamada (Văn phòng Giám đốc)",
+      "member3": "Ông Hamada (Chuyên gia ngành điện lực)",
+      "member4": "Ông Yamazaki (Chuyên gia ngành điện lực)"
+    },
+    "challenges": {
+      "title": "Thách thức bán hàng và giải pháp",
+      "challenge": "Thách thức: Các công ty niêm yết tại Nhật Bản thận trọng với việc số hóa nghiệp vụ cốt lõi và quy trình ra quyết định thường mất nhiều thời gian. Đây là thách thức chính trong hoạt động bán hàng hiện tại và cũng gây lo ngại cho đội ngũ phát triển Việt Nam.",
+      "countermeasures": "Giải pháp:",
+      "measure1": "Chứng minh hiệu quả qua dùng thử",
+      "measure2": "Đề xuất kế hoạch triển khai từng bước",
+      "measure3": "Tiếp cận trực tiếp ban lãnh đạo",
+      "measure4": "Lan tỏa các trường hợp thành công"
+    }
+  },
+  "futureOutlook": {
+    "title": "Triển vọng tương lai",
+    "roadmap": {
+      "title": "Lộ trình sản phẩm",
+      "phase1": "Giai đoạn 1 (2025): Tăng cường tính năng cho ngành điện lực・tài chính",
+      "phase2": "Giai đoạn 2 (2026): Tăng cường kết nối API, tích hợp với các hệ thống khác",
+      "phase3": "Giai đoạn 3 (2027): Triển khai tính năng dự báo AI, chức năng phân loại tự động"
+    },
+    "expansion": {
+      "title": "Kế hoạch mở rộng kinh doanh",
+      "industry": "Mở rộng ngành: Điện lực → Tài chính → Logistics・Sản xuất → Y tế・Bất động sản",
+      "region": "Mở rộng khu vực: Khu vực thủ đô → Kansai → Toàn quốc",
+      "overseas": "Mở rộng ra nước ngoài trong tương lai: Tiến vào thị trường châu Á (Hợp tác với TERACOM)"
+    },
+    "techImprovement": {
+      "title": "Lộ trình cải tiến kỹ thuật",
+      "highPriority": {
+        "title": "Ưu tiên: Cao - Chức năng tạo・lưu trữ tài liệu",
+        "description": "Hiện tại, dữ liệu phân tích có thể tải xuống dưới dạng file CSV, nhưng với các tính năng bổ sung sau đây, khách hàng có thể hoàn thành toàn bộ công việc trong Familia OCR:",
+        "cloudStorage": "Chức năng lưu trữ đám mây: Lưu trữ an toàn dữ liệu đã phân tích trên nền tảng",
+        "autoQuote": "Chức năng tạo báo giá tự động: Tự động tạo báo giá theo mẫu cho từng ngành dựa trên dữ liệu đã lưu",
+        "documentManagement": "Hệ thống quản lý tài liệu: Quản lý tập trung lịch sử phân tích, lịch sử báo giá",
+        "expectedEffect": "Hiệu quả mong đợi: Bao phủ toàn bộ quy trình làm việc của khách hàng, giảm sự phụ thuộc vào các hệ thống khác"
+      },
+      "mediumPriority": {
+        "title": "Ưu tiên: Trung bình - Phân tích bố cục nâng cao",
+        "description": "Ngoài phân tích OCR→LLM hiện tại, thực hiện các cải tiến kỹ thuật sau:",
+        "multimodal": "Sử dụng AI đa phương thức: Cho phép LLM phân tích trực tiếp toàn bộ bố cục hình ảnh",
+        "structureRecognition": "Tăng cường nhận dạng cấu trúc: Hiểu toàn diện tài liệu bao gồm mối quan hệ vị trí của bảng, biểu đồ, hình dạng",
+        "expectedEffect": "Hiệu quả mong đợi: Cải thiện độ chính xác nhận dạng từ 95%→98% trở lên, tăng cường khả năng xử lý biểu mẫu phức tạp"
+      },
+      "investmentNote": "Haudi có thể đầu tư vào phát triển cho đến nay và phát triển tính năng trong tương lai, nhưng cần một chút thời gian để giao tiếp nội bộ."
+    }
+  },
+  "partnership": {
+    "title": "Đối tác (Hợp tác với TERACOM)",
+    "development": {
+      "title": "Cơ cấu phát triển",
+      "foundation": "Phát triển nền tảng: TERACOM chủ đạo",
+      "customization": "Tùy chỉnh cho thị trường Nhật Bản: Thực hiện thông qua Haudi-Teracom",
+      "quality": "Đảm bảo chất lượng: Phát triển・Kiểm thử theo tiêu chuẩn chất lượng Nhật Bản"
+    },
+    "revenue": {
+      "title": "Phân chia doanh thu",
+      "pattern1": "Mô hình 1 (SaaS): Mô hình chia sẻ doanh thu (Chi tiết sẽ thảo luận riêng)",
+      "pattern2": "Mô hình 2 (Phát triển theo yêu cầu): Đặt hàng thông qua Haudi-Teracom"
+    },
+    "expectations": {
+      "title": "Kỳ vọng hợp tác",
+      "tech": "Hỗ trợ phát triển công nghệ liên tục",
+      "improvement": "Cải thiện hơn nữa tốc độ xử lý・độ chính xác",
+      "newFeatures": "Cùng phát triển tính năng mới",
+      "asiaExpansion": "Hợp tác mở rộng ra châu Á trong tương lai"
+    }
+  },
+  "summary": {
+    "title": "Tổng kết",
+    "content": "Familia OCR là dự án nắm bắt cơ hội thị trường lớn từ sự chậm trễ trong số hóa tại Nhật Bản và chắc chắn sẽ phát triển. Việc nắm bắt nhu cầu cụ thể trong ngành điện lực và ký kết hợp đồng dùng thử với 2 công ty đang chứng minh tính khả thi của dự án.",
+    "strength": "Mặc dù các doanh nghiệp Nhật Bản có tính thận trọng đặc thù, nhưng ngược lại, một khi đã triển khai sẽ xây dựng được mối quan hệ lâu dài. Với quan hệ đối tác vững chắc với TERACOM, chúng tôi sẽ mở rộng thị phần một cách chắc chắn trong khi duy trì ưu thế công nghệ.",
+    "goals": {
+      "title": "Mục tiêu sau 3 năm:",
+      "revenue": "Doanh thu 285 tỷ VND",
+      "companies": "50 công ty triển khai (SaaS) + 15 dự án/năm (Phát triển theo yêu cầu)",
+      "marketShare": "Thị phần 1%"
+    },
+    "conclusion": "Hướng tới mục tiêu này, đội ngũ Nhật Bản và Việt Nam sẽ cùng nhau nỗ lực."
+  }
+}

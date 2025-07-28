@@ -1,0 +1,267 @@
+{
+  "title": "Familia OCR 事業計画書",
+  "subtitle": "株式会社ハウディ × TERACOM社",
+  "nav": {
+    "executiveSummary": "エグゼクティブサマリー",
+    "marketAnalysis": "市場分析",
+    "competitorAnalysis": "競合分析",
+    "businessModel": "ビジネスモデル",
+    "revenueProjection": "収益予測",
+    "salesStrategy": "営業戦略・進捗",
+    "futureOutlook": "今後の展望",
+    "partnership": "パートナーシップ",
+    "summary": "まとめ"
+  },
+  "executiveSummary": {
+    "title": "エグゼクティブサマリー",
+    "description": "Familia OCRは、AI OCRとLLM（大規模言語モデル）を融合した革新的な文書処理ソリューションです。紙の文書を瞬時にデジタルデータへ変換し、企業の業務効率を劇的に改善します。",
+    "points": {
+      "title": "事業のポイント",
+      "accuracy": "認識精度95%以上：LLM活用による文脈理解で、従来OCRの80-85%を大きく上回る",
+      "timeReduction": "作業時間90%削減：手作業10分以上→1分以内で処理完了",
+      "marketSize": "市場規模：日本のOCR市場は急成長中、2030年には1,500億円規模へ"
+    }
+  },
+  "marketAnalysis": {
+    "title": "市場分析",
+    "tam": {
+      "title": "TAM（Total Addressable Market）- 獲得可能な最大市場規模",
+      "content": "日本のOCR市場は急速に成長しています：",
+      "currentSize": "2024年市場規模：約600億円",
+      "futureSize": "2030年予測：約1,500億円（CAGR 16.5%）",
+      "aiShare": "AI OCR市場：全体の30%を占め、今後さらに拡大"
+    },
+    "sam": {
+      "title": "SAM（Serviceable Available Market）- サービス提供可能な市場規模",
+      "content": "Familia OCRがターゲットとする市場：",
+      "targetMarket": "対象業界の市場規模：約450億円",
+      "energy": "エネルギー業界：150億円",
+      "finance": "金融業界：200億円",
+      "logistics": "物流・製造業界：100億円",
+      "aiOcrMarket": "中堅・大手企業向けAI OCR市場：約200億円"
+    },
+    "som": {
+      "title": "SOM（Serviceable Obtainable Market）- 現実的に獲得可能な市場規模",
+      "content": "3年以内に獲得を目指す市場：",
+      "targetShare": "目標市場シェア：1%",
+      "obtainableSize": "獲得可能市場規模：約5億円"
+    },
+    "powerIndustry": {
+      "title": "電力業界の具体的なニーズ",
+      "currentState": "電力小売会社の現状：",
+      "processingCost": "処理コスト：1件あたり3,500-5,000円（社内処理）または1,000円（外注・1週間待ち）",
+      "volume": "処理量：大手で月間1,000件、8名体制で対応",
+      "challenges": "課題：外注では営業機会損失、内製では高コスト",
+      "marketEstimate": "市場規模試算（電力業界のみ）：",
+      "retailers": "電力小売事業者：約700社",
+      "averageVolume": "平均処理件数：月500件",
+      "annualSize": "年間市場規模：約42億円（700社 × 500件 × 12ヶ月 × 1,000円）",
+      "conclusion": "市場規模は非常に大きいです"
+    }
+  },
+  "competitorAnalysis": {
+    "title": "競合分析",
+    "subtitle": "主要競合と差別化要因",
+    "table": {
+      "headers": {
+        "item": "項目",
+        "traditional": "従来のOCR",
+        "aiCompetitor": "AI OCR競合",
+        "familiaOcr": "Familia OCR"
+      },
+      "rows": {
+        "accuracy": {
+          "label": "認識精度",
+          "traditional": "80-85%",
+          "aiCompetitor": "90-93%",
+          "familiaOcr": "95%以上"
+        },
+        "contextUnderstanding": {
+          "label": "文脈理解",
+          "traditional": "×",
+          "aiCompetitor": "△",
+          "familiaOcr": "◎（LLM活用）"
+        },
+        "processingSpeed": {
+          "label": "処理速度",
+          "traditional": "5-10分/枚",
+          "aiCompetitor": "2-3分/枚",
+          "familiaOcr": "1分以内/枚"
+        },
+        "complexLayout": {
+          "label": "複雑レイアウト対応",
+          "traditional": "△",
+          "aiCompetitor": "○",
+          "familiaOcr": "◎"
+        },
+        "learningFunction": {
+          "label": "学習機能",
+          "traditional": "×",
+          "aiCompetitor": "△",
+          "familiaOcr": "○（標準搭載）"
+        },
+        "pricing": {
+          "label": "価格帯",
+          "traditional": "高額",
+          "aiCompetitor": "中-高額",
+          "familiaOcr": "柔軟な従量課金"
+        }
+      }
+    },
+    "advantages": {
+      "title": "競争優位性",
+      "llm": "LLM活用による高精度認識：前後の文脈から正しい文字を推測",
+      "layout": "自動レイアウト解析：表や複雑な帳票も構造を理解",
+      "learning": "継続的な学習機能：使えば使うほど賢くなる",
+      "localization": "日本企業のニーズに特化：請求書、通帳など日本特有の文書に最適化"
+    }
+  },
+  "businessModel": {
+    "title": "ビジネスモデル",
+    "pattern1": {
+      "title": "パターン1：SaaSモデル",
+      "initialCost": "初期費用：50万円（環境構築・初期設定）",
+      "monthlyFee": "月額費用：従量課金制",
+      "perDocument": "1ドキュメントあたり1,000円〜3,000円",
+      "powerBill": "電力請求書（12ヶ月分）：約2,000円/件",
+      "bankbook": "通帳解析：約3,000円/件",
+      "expectedVolume": "想定利用量：1社あたり月1,000ドキュメント"
+    },
+    "pattern2": {
+      "title": "パターン2：ライセンス提供＋受託開発",
+      "licenseFee": "ライセンス費用：300万円/年",
+      "developmentFee": "受託開発費用：1,200万円〜（カスタマイズ内容による）",
+      "averagePrice": "平均単価：1,500万円/プロジェクト"
+    },
+    "trial": {
+      "title": "トライアルプログラム",
+      "period": "期間：2週間",
+      "cost": "費用：無料",
+      "purpose": "目的：効果実感と社内稟議の材料提供"
+    }
+  },
+  "revenueProjection": {
+    "title": "収益予測",
+    "shortTerm": {
+      "title": "短期（2025年3月まで）",
+      "pattern1": {
+        "title": "パターン1（SaaS）：",
+        "target": "導入目標：5社",
+        "monthlyRevenue": "月間収益：5社 × 1,000件 × 2,000円 = 1,000万円",
+        "totalRevenue": "累計収益（6ヶ月）：約6,000万円"
+      },
+      "pattern2": {
+        "title": "パターン2（受託）：",
+        "target": "受注目標：5社",
+        "revenue": "収益：5社 × 1,500万円 = 7,500万円"
+      },
+      "total": "合計収益目標：約1.35億円"
+    },
+    "midTerm": {
+      "title": "中期（2026年度）",
+      "saas": "SaaS導入企業：20社（月間売上4,000万円）",
+      "development": "受託開発：年間10件（1.5億円）",
+      "annual": "年間売上目標：約6.3億円"
+    },
+    "longTerm": {
+      "title": "長期（2028年度）",
+      "saas": "SaaS導入企業：50社（月間売上1億円）",
+      "development": "受託開発：年間15件（2.25億円）",
+      "marketShare": "市場シェア：1%",
+      "annual": "年間売上目標：約14.25億円"
+    }
+  },
+  "salesStrategy": {
+    "title": "営業戦略・進捗",
+    "currentStatus": {
+      "title": "現在の営業状況",
+      "approached": "アプローチ済み：大手企業10社",
+      "trialSigned": "トライアル契約締結：2社（リミックスポイント社、イーレックス社）",
+      "trialStart": "トライアル開始：2025年7月予定",
+      "others": "その他8社：継続的にフォロー中"
+    },
+    "salesTeam": {
+      "title": "営業体制",
+      "member1": "浅田社長",
+      "member2": "山田室長（社長室）",
+      "member3": "ハマダ氏（電力業界専門）",
+      "member4": "ヤマザキ氏（電力業界専門）"
+    },
+    "challenges": {
+      "title": "営業課題と対策",
+      "challenge": "課題：日本の上場企業は基幹業務のデジタル化に対して慎重であり、意思決定プロセスに時間を要する傾向があります。これが現在の営業活動における主要な課題となっており、開発パートナーであるベトナムチームにも懸念を与えている状況です。",
+      "countermeasures": "対策：",
+      "measure1": "トライアルでの効果実証",
+      "measure2": "段階的導入プランの提案",
+      "measure3": "経営層への直接アプローチ",
+      "measure4": "成功事例の横展開"
+    }
+  },
+  "futureOutlook": {
+    "title": "今後の展望",
+    "roadmap": {
+      "title": "製品ロードマップ",
+      "phase1": "Phase 1（2025年）：電力・金融業界向け機能強化",
+      "phase2": "Phase 2（2026年）：API連携強化、他システムとの統合",
+      "phase3": "Phase 3（2027年）：AI予測機能、自動仕訳機能の実装"
+    },
+    "expansion": {
+      "title": "事業拡大計画",
+      "industry": "業界展開：電力→金融→物流・製造→医療・不動産",
+      "region": "地域展開：首都圏→関西→全国",
+      "overseas": "将来的な海外展開：アジア市場への進出（TERACOM社との連携）"
+    },
+    "techImprovement": {
+      "title": "技術改善ロードマップ",
+      "highPriority": {
+        "title": "優先度：高 - ドキュメント作成・保管機能",
+        "description": "現在、解析データはCSVファイルとしてダウンロード可能ですが、以下の機能追加により、Familia OCR内で業務を完結できるようにします：",
+        "cloudStorage": "クラウドストレージ機能：解析済みデータをプラットフォーム上で安全に保管",
+        "autoQuote": "見積書自動生成機能：保管データを基に、各業界向けテンプレートで見積書を自動作成",
+        "documentManagement": "ドキュメント管理システム：過去の解析履歴、見積書履歴を一元管理",
+        "expectedEffect": "期待効果：顧客の業務フロー全体をカバーし、他システムへの依存を削減"
+      },
+      "mediumPriority": {
+        "title": "優先度：中 - 高度なレイアウト解析",
+        "description": "現在のOCR→LLM解析に加えて、以下の技術改善を実施：",
+        "multimodal": "マルチモーダルAI活用：画像全体のレイアウトをLLMに直接解析させる",
+        "structureRecognition": "構造認識の強化：表、グラフ、図形の位置関係を含めた総合的な文書理解",
+        "expectedEffect": "期待効果：認識精度95%→98%以上への向上、複雑な帳票への対応力強化"
+      },
+      "investmentNote": "ハウディでこれまでの開発や今後の機能開発に投資することももちろん可能ですが、社内の意思疎通のために少し時間が必要です。"
+    }
+  },
+  "partnership": {
+    "title": "パートナーシップ（TERACOM社との協業）",
+    "development": {
+      "title": "開発体制",
+      "foundation": "基盤開発：TERACOM社が主導",
+      "customization": "日本市場向けカスタマイズ：ハウディ・テラコム経由で実施",
+      "quality": "品質保証：日本品質基準での開発・テスト"
+    },
+    "revenue": {
+      "title": "収益配分",
+      "pattern1": "パターン1（SaaS）：レベニューシェアモデル（詳細は別途協議）",
+      "pattern2": "パターン2（受託）：ハウディ・テラコム経由での発注"
+    },
+    "expectations": {
+      "title": "期待する連携",
+      "tech": "継続的な技術開発支援",
+      "improvement": "処理速度・精度の更なる向上",
+      "newFeatures": "新機能の共同開発",
+      "asiaExpansion": "将来的なアジア展開での協力"
+    }
+  },
+  "summary": {
+    "title": "まとめ",
+    "content": "Familia OCRは、日本のデジタル化の遅れという大きな市場機会を捉え、確実に成長していく事業です。電力業界での具体的なニーズ把握と、2社とのトライアル契約締結により、事業の実現可能性は証明されつつあります。",
+    "strength": "日本企業特有の慎重さはありますが、これは逆に一度導入されれば長期的な関係が築けることを意味します。TERACOM社との強固なパートナーシップにより、技術優位性を保ちながら、着実に市場シェアを拡大していきます。",
+    "goals": {
+      "title": "3年後の目標：",
+      "revenue": "売上14.25億円",
+      "companies": "導入企業50社（SaaS）+ 15件/年（受託開発）",
+      "marketShare": "市場シェア1%"
+    },
+    "conclusion": "この目標に向けて、日本とベトナムのチームが一丸となって取り組んでいきます。"
+  }
+}
