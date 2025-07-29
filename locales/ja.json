@@ -43,8 +43,8 @@
     "som": {
       "title": "SOM（Serviceable Obtainable Market）- 現実的に獲得可能な市場規模",
       "content": "3年以内に獲得を目指す市場：",
-      "targetShare": "目標市場シェア：1%",
-      "obtainableSize": "獲得可能市場規模：約5億円"
+      "targetShare": "目標市場シェア：3%",
+      "obtainableSize": "獲得可能市場規模：約7-12億円"
     },
     "powerIndustry": {
       "title": "電力業界の具体的なニーズ",
@@ -209,7 +209,8 @@
       "title": "事業拡大計画",
       "industry": "業界展開：電力→金融→物流・製造→医療・不動産",
       "region": "地域展開：首都圏→関西→全国",
-      "overseas": "将来的な海外展開：アジア市場への進出（TERACOM社との連携）"
+      "overseas": "将来的な海外展開：アジア市場への進出（TERACOM社との連携）",
+      "bpoCenter": "BPOセンター構築：ベトナムにBPOセンターを設立し、文書スキャン・データ入力確認・品質チェックなどの手作業を効率的に処理。高品質かつコスト効率的なオペレーション体制を確立"
     },
     "techImprovement": {
       "title": "技術改善ロードマップ",

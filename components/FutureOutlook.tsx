@@ -67,7 +67,7 @@ export default function FutureOutlook() {
               <h3 className="text-2xl font-bold text-[#3D7F7A]">{t('expansion.title')}</h3>
             </div>
             
-            <div className="grid md:grid-cols-3 gap-6">
+            <div className="grid md:grid-cols-2 gap-6 mb-6">
               <div className="bg-gradient-to-br from-[#50A69F]/10 to-[#7BC4BF]/10 rounded-xl p-6">
                 <h4 className="font-bold text-lg mb-3 text-[#3D7F7A]">1. {t('expansion.industry').includes('：') ? t('expansion.industry').split('：')[0] : t('expansion.industry')}</h4>
                 <div className="text-gray-700">
@@ -95,7 +95,9 @@ export default function FutureOutlook() {
                   </div>
                 </div>
               </div>
-              
+            </div>
+            
+            <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-gradient-to-br from-[#7BC4BF]/10 to-[#50A69F]/10 rounded-xl p-6">
                 <div className="flex items-center mb-3">
                   <Globe className="w-6 h-6 text-[#50A69F] mr-2" />
@@ -103,6 +105,13 @@ export default function FutureOutlook() {
                 </div>
                 <p className="text-gray-700 text-sm">{t('expansion.overseas').includes('：') ? t('expansion.overseas').split('：')[1] : ''}</p>
               </div>
+              
+              {t('expansion.bpoCenter') && (
+                <div className="bg-gradient-to-br from-[#50A69F]/10 to-[#3D7F7A]/10 rounded-xl p-6">
+                  <h4 className="font-bold text-lg mb-3 text-[#3D7F7A]">4. {t('expansion.bpoCenter').includes('：') ? t('expansion.bpoCenter').split('：')[0] : t('expansion.bpoCenter')}</h4>
+                  <p className="text-gray-700 text-sm">{t('expansion.bpoCenter').includes('：') ? t('expansion.bpoCenter').split('：')[1] : ''}</p>
+                </div>
+              )}
             </div>
           </div>
 

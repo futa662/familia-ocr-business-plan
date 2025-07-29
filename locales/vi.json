@@ -43,8 +43,8 @@
     "som": {
       "title": "SOM (Serviceable Obtainable Market) - Quy mô thị trường có thể đạt được thực tế",
       "content": "Thị trường dự kiến đạt được trong 3 năm:",
-      "targetShare": "Thị phần mục tiêu: 1%",
-      "obtainableSize": "Quy mô thị trường có thể đạt được: Khoảng 1 nghìn tỷ VND"
+      "targetShare": "Thị phần mục tiêu: 3%",
+      "obtainableSize": "Quy mô thị trường có thể đạt được: Khoảng 1,4-2,4 nghìn tỷ VND"
     },
     "powerIndustry": {
       "title": "Nhu cầu cụ thể của ngành điện lực",
@@ -209,7 +209,8 @@
       "title": "Kế hoạch mở rộng kinh doanh",
       "industry": "Mở rộng ngành: Điện lực → Tài chính → Logistics・Sản xuất → Y tế・Bất động sản",
       "region": "Mở rộng khu vực: Khu vực thủ đô → Kansai → Toàn quốc",
-      "overseas": "Mở rộng ra nước ngoài trong tương lai: Tiến vào thị trường châu Á (Hợp tác với TERACOM)"
+      "overseas": "Mở rộng ra nước ngoài trong tương lai: Tiến vào thị trường châu Á (Hợp tác với TERACOM)",
+      "bpoCenter": "Xây dựng trung tâm BPO: Thành lập trung tâm BPO tại Việt Nam để xử lý hiệu quả các công việc thủ công như quét tài liệu, xác nhận nhập dữ liệu và kiểm tra chất lượng. Xây dựng hệ thống vận hành chất lượng cao và tiết kiệm chi phí"
     },
     "techImprovement": {
       "title": "Lộ trình cải tiến kỹ thuật",
