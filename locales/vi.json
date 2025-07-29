@@ -146,16 +146,16 @@
       "title": "Ngắn hạn (Đến tháng 3/2025)",
       "pattern1": {
         "title": "Mô hình 1 (SaaS):",
-        "target": "Mục tiêu triển khai: 5 công ty",
-        "monthlyRevenue": "Doanh thu hàng tháng: 5 công ty × 1.000 trường hợp × 400.000 VND = 2 tỷ VND",
-        "totalRevenue": "Tổng doanh thu (6 tháng): Khoảng 12 tỷ VND"
+        "target": "Mục tiêu triển khai: Tối thiểu 3 công ty (Mục tiêu phấn đấu: 5 công ty)",
+        "monthlyRevenue": "Doanh thu hàng tháng: 3-5 công ty × 1.000 trường hợp × 400.000 VND = 1,2-2 tỷ VND",
+        "totalRevenue": "Tổng doanh thu (6 tháng): Khoảng 7,2-12 tỷ VND"
       },
       "pattern2": {
         "title": "Mô hình 2 (Phát triển theo yêu cầu):",
-        "target": "Mục tiêu đơn hàng: 5 công ty",
-        "revenue": "Doanh thu: 5 công ty × 3 tỷ VND = 15 tỷ VND"
+        "target": "Mục tiêu đơn hàng: Tối thiểu 3 công ty (Mục tiêu phấn đấu: 5 công ty)",
+        "revenue": "Doanh thu: 3-5 công ty × 3 tỷ VND = 9-15 tỷ VND"
       },
-      "total": "Tổng mục tiêu doanh thu: Khoảng 27 tỷ VND"
+      "total": "Tổng mục tiêu doanh thu: Khoảng 16,2-27 tỷ VND (Hoạt động chính thức từ năm sau)"
     },
     "midTerm": {
       "title": "Trung hạn (Năm tài chính 2026)",
@@ -202,7 +202,7 @@
     "roadmap": {
       "title": "Lộ trình sản phẩm",
       "phase1": "Giai đoạn 1 (2025): Tăng cường tính năng cho ngành điện lực・tài chính",
-      "phase2": "Giai đoạn 2 (2026): Tăng cường kết nối API, tích hợp với các hệ thống khác",
+      "phase2": "Giai đoạn 2 (2026): Đáp ứng nhiều ngành nghề khác nhau (Sản xuất, Y tế, Bán lẻ, v.v.)",
       "phase3": "Giai đoạn 3 (2027): Triển khai tính năng dự báo AI, chức năng phân loại tự động"
     },
     "expansion": {
